@@ -1,0 +1,10 @@
+# OpenFOAM: regenerable mesh and simulation results
+openfoam-case/constant/polyMesh/
+openfoam-case/0.*/
+openfoam-case/[1-9]*/
+openfoam-case/postProcessing/
+openfoam-case/log.*
+
+# Python
+ui/__pycache__/
+*.pyc
