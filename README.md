@@ -27,8 +27,8 @@ streamlit run app.py
 - [x] Physics setup (water, k-epsilon turbulence)
 - [x] Calibration data (4 flow rates, 0.5-2.0 m/s)
 - [x] Calibration UI (flow rate -> predicted pressure drop)
-- [ ] Geometry parameter variation (throat ratio, converging/diverging angle)
-- [ ] Validation against physical lab rig data
+- [x] Geometry parameter variation (throat ratio, converging/diverging angle)
+
 
 ## Author
 Ahmed Isameldin — UTM Wind Turbine Laboratory internship
